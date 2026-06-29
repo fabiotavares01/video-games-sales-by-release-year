@@ -1,6 +1,6 @@
 # Video Games Sales by Release Year Analysis
 
-![Dashboard Overview](/assets/dashboard.png)
+![Dashboard Overview](/assets/dashboard_vgs.png)
 
 [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow)](https://app.powerbi.com/links/m6i_VaZ1cn?ctid=a6c348d1-c407-43cb-b532-13fe5b3b952d&pbi_source=linkShare)
 
