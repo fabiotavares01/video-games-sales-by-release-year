@@ -37,7 +37,7 @@ Source: [Video Game Sales - Kaggle](https://www.kaggle.com/datasets/gregorut/vid
 - Action was the best-selling genre across all years
 
 ## Live Dashboard
-You can also view the dashboard directly on Power BI:[![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow)](https://app.powerbi.com/links/m6i_VaZ1cn?ctid=a6c348d1-c407-43cb-b532-13fe5b3b952d&pbi_source=linkShare)
+You can also view the dashboard directly on Power BI: [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow)](https://app.powerbi.com/links/m6i_VaZ1cn?ctid=a6c348d1-c407-43cb-b532-13fe5b3b952d&pbi_source=linkShare)
 
 ## Author
 Fábio Tavares | 2026
